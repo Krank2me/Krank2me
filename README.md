@@ -6,7 +6,7 @@ Hi for all! I'm Frank Betancur a.k.a Panda 🐼, I'm Backend Developer, Frontend
 * 👓  [Avanet](https://avanet.org/) member
 * 👩🅰️  Mentor at [SheCodesAngular](https://twitter.com/SheCodesAngular)
 
-**Find me at:**
+**Follow me at:**
 
 * 💻  My site [https://www.frankbetancur.dev](https://www.frankbetancur.dev)
 * 🖍️  [Instagram](https://www.instagram.com/elpanda2me/)
